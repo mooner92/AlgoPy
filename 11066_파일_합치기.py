@@ -4,3 +4,4 @@ input = sys.stdin.readline
 
 a = int(input())
 print(a)
+####
